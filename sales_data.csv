@@ -1,0 +1,13 @@
+Date,Region,Product,Sales
+2022-01-01,North,Paracetamol,12000
+2022-01-01,East,Amoxicillin,8000
+2022-01-01,West,Ciprofloxacin,9000
+2022-02-01,North,Paracetamol,14000
+2022-02-01,East,Amoxicillin,9500
+2022-02-01,West,Ciprofloxacin,8800
+2022-03-01,North,Paracetamol,15000
+2022-03-01,East,Amoxicillin,10200
+2022-03-01,West,Ciprofloxacin,10000
+2022-04-01,North,Paracetamol,16000
+2022-04-01,East,Amoxicillin,9800
+2022-04-01,West,Ciprofloxacin,9500
