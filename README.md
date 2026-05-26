@@ -1,6 +1,6 @@
 # Pharma Sales Visualization
 
-Hi, I’m Mangesh — with 15+ years in pharmaceutical sales. This project is my way of combining real-world experience with data science skills. I've taken a sample sales dataset and visualized it using Python to uncover patterns that help in marketing and business planning.
+Hi, I’m Mangesh — with 18+ years in pharmaceutical sales. This project is my way of combining real-world experience with data Analytical skills. I've taken a sample sales dataset and visualized it using Python to uncover patterns that help in marketing and business planning.
 
 ---
  What This Does
