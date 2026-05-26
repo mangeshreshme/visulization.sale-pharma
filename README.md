@@ -1,6 +1,6 @@
 # Pharma Sales Visualization
 
-Hi, I’m Mangesh — with 18+ years in pharmaceutical sales. This project is my way of combining real-world experience with data Analytical skills. I've taken a sample sales dataset and visualized it using Python to uncover patterns that help in marketing and business planning.
+Hi, I’m Mangesh — with 18+ years in pharmaceutical sales. This project is my way of combining real-world experience with data Analytical skills. I have taken a sample sales dataset (just a example) and visualized it using Python to uncover patterns that help in marketing and business planning.
 
 ---
  What This Does
@@ -16,7 +16,7 @@ Using basic tools like Pandas, Matplotlib, and Seaborn, this script:
 ##  Files
 
 - `visulization.sale.py` – the main Python script
-- `sales_data.csv` – sample data (inside `/data`)
+- `sales_data.csv` – sample data (Sample Dataset))
 - `Sales by Region and Product(heatmap.png`) – auto-generated chart (inside `/images`)
 
 ---
@@ -26,4 +26,4 @@ Using basic tools like Pandas, Matplotlib, and Seaborn, this script:
 1. Install requirements:
 ```bash
 pip install pandas matplotlib seaborn
-
+-Mangesh Reshme-
