@@ -1,6 +1,6 @@
 # Sales Visualization Project
 
-print("Author- By Mangesh Reshme")
+print(" Project created By - Mangesh Reshme")
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -10,7 +10,7 @@ print(df.head())
 print(df.info())
 print(df.describe())
 # formating Date and month in redable format
-df['Date'] = pd.to_datetime(df['Date'])
+df['Date'] = pd.to_datetime(df['Date']) 
 df['Month'] = df['Date'].dt.strftime('%b-%Y')
 
 # 1. Visualization of Total Sales by Region(bar plot)
@@ -47,7 +47,7 @@ plt.tight_layout()
 plt.show()
 plt.savefig('Product-wise Sales Contribution')
 
-# 4. Visulization with Heatmap: Region vs Product Sales
+# 4. Visulization with Heatmap: Region vs Product Sales as it gives complete understanding about region wise, roduct wise trend
 pivot_table = df.pivot_table(index='Region', columns='Product', values='Sales', aggfunc='sum')
 plt.figure(figsize=(8, 5))
 sns.heatmap(pivot_table, annot=True, cmap='YlGnBu', fmt=".0f")
